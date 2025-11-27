@@ -30,7 +30,7 @@ ylabel('x(t) [m]');
 
 subplot(3,1,2);
 plot(t, y(:,2));
-title('Geschwindigkeit \dot{x}(t)');
+% title('Geschwindigkeit \dot{x}(t)');
 xlabel('Zeit [s]');
 ylabel('v(t) [m/s]');
 
